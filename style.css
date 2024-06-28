@@ -1,0 +1,20 @@
+div{
+text-align: center;
+border: 2px solid red;
+width: 300px
+}
+#pay{
+    width: 120px
+}
+
+h3{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pay{
+    margin-top: 1;
+}
